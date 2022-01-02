@@ -1,4 +1,9 @@
- <img src="https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/222656531_1270428413371060_8010862461161251421_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFxHtIU3ezkTQn7Ug0-Dc1-DUTloNsRQosNROWg2xFCi8W5Aaiyydh-gzncY_65nvwJkO6kzwARcQS1MPlYHnqt&_nc_ohc=YtSJHA6_zhkAX_zW0Nr&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-aOQdiOw-nS-vhXSc1_Wgh2lR8IEfDJZVaTJ4ppmS_1Q&oe=61C89133" alt="RONY AHMMED">
+<div style="height:500px; width:1000px; background-color: honeydew;">
+    <div style="height:300px; width:500px; background-color: green; position: relative;">
+        <div style="height:200px; width:200px; border-radius: 50%; background-color: red; position: absolute;margin-top: 50px; margin-left:120px ;"></div>
+    </div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rony Ahmmed</h1>
 <h3 align="center">Front End Web developer</h3>
 
