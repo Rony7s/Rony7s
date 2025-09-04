@@ -8,7 +8,10 @@
  <a href="https://www.facebook.com/EdTech.Engg" target="blank">Facebook Page</a>
 
 ## 🚀 About Me
-Hello, I'm Md. Rony Ahmmed Shah, currently studying B. Sc. (Engg.) in Educational Technology and Engineering (EdTE)  at University of Frontier Technology, Bangladesh-(UFTB), within the Faculty of Digital Transformation Engineering and the Department of Educational Technology and Engineering.
+‎Hello, I'm Md. Rony Ahmmed Shah, currently studying B.Sc. (Engg.) in Educational Technology and Engineering at University of Frontier Technology, Bangladesh (UFTB), within the Faculty of Digital Transformation Engineering and the Department of Educational Technology and Engineering.
+
+‎
+‎I’m passionate about integrating technology with education and exploring innovations in digital learning, AI, data science, and engineering solutions for the future of education. I also bring full-stack web development skills using Laravel, along with experience in integrating AI functionalities such as chatbots and voice interactions using OpenAI services.
 
 ## 👨‍💻 Skills & Experience:
 
