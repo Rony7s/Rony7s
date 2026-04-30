@@ -21,6 +21,9 @@
 **Web Development:**  
 ✅ HTML5, CSS3, Bootstrap 5, jQuery, jQuery Mobile, PHP, MySQL, Laravel 12  
 
+**Mobile App Development (Android & iOS):**  
+✅ Flutter, Dart, Kotlin, Android Studio, Android SDK, Firebase 
+
 **AI & Data Science:**  
 ✅ AI & Machine Learning, Deep Learning  
 
