@@ -37,6 +37,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony7s&layout=compact)
 
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frony7s%2Frony7s&label=Visitors&countColor=%2300ff00)
+
 ---
 
 ## ☕ Connect with Me
