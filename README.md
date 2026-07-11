@@ -34,6 +34,10 @@
 ✅ Communicative English  
 ✅ Teaching & Digital Content Creation (Online Teaching, Blogging, Video Editing, Graphic Design)
 
+### Md. Rony Ahmmed Shah
+### মোঃ রনি আহম্মেদ শাহ্
+### bdu DOT rony AT gmail DOT com
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony7s&layout=compact)
 
