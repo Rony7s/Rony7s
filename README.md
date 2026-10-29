@@ -1,25 +1,28 @@
 ## Hi, I'm Rony Ahmmed 👋
 
 <p>
-👑 I am Web Developer <br> 
+👑 I am Web & App Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
  <a href="https://www.facebook.com/EdTech.Engg" target="blank">Facebook Page</a>
 
 ## 🚀 About Me
-‎Hello, I'm Md. Rony Ahmmed Shah, currently studying B.Sc. (Engg.) in Educational Technology and Engineering at University of Frontier Technology, Bangladesh (UFTB), within the Faculty of Digital Transformation Engineering and the Department of Educational Technology and Engineering.
+‎Hello, I’m Md. Rony Ahmmed Shah, a recent B.Sc. (Engg.) graduate in Educational Technology and Engineering (EdTE) (equivalent to CSE) from the University of Frontier Technology, Bangladesh (UFTB), Faculty of Digital Transformation Engineering.
 
-‎
-‎I’m passionate about integrating technology with education and exploring innovations in digital learning, AI, data science, and engineering solutions for the future of education. I also bring full-stack web development skills using Laravel, along with experience in integrating AI functionalities such as chatbots and voice interactions using OpenAI services.
+I’m passionate about software engineering, web development, and building practical solutions to real-world problems. My technical skills include PHP, Laravel, Java, JavaScript, MySQL, HTML, CSS, Tailwind CSS, REST APIs, and Flutter with Dart for mobile app development.
+
+I also have an interest in Artificial Intelligence and Machine Learning, with experience in Python and building AI-integrated applications using OpenAI services. Through hands-on projects, I’ve developed practical skills in application development, database management, and problem-solving.
+
+I’m always open to learning, collaboration, and new opportunities.
 
 ## 👨‍💻 Skills & Experience:
 
 **Programming Languages:**  
-✅ C Programming, C++ Programming, Python Programming, Java Programming (OOP), JavaScript  
+✅ C Programming, C++ Programming, Python Programming, Java Programming (OOP), JypeScript  
 
 **Web Development:**  
-✅ HTML5, CSS3, Bootstrap 5, jQuery, jQuery Mobile, PHP, MySQL, Laravel 12  
+✅ HTML5, CSS3, Tailwind CSS, JavaScript, Bootstrap 5, jQuery, jQuery Mobile, PHP, MySQL, Laravel 12  
 
 **Mobile App Development (Android & iOS):**  
 ✅ Flutter, Dart, Kotlin, Android Studio, Android SDK, Firebase 
